@@ -5,7 +5,7 @@ CEO instructions
 In this project you will check if the a plot:
 
 * Is stable forest (Forest cover throughout the entire study period - 2000-2019)
-* Suffered degradation (change in percent tree cover between 2000 and 2019. Not clear cut. Includes recovery. Note that Nepal forests have periods of leaf-off) - usually change that goes from tree cover percentages between 10-30% to > 30% (recovery) or the other way around (degradation).
+* Suffered degradation (change in percent tree cover between 2000 and 2019. Not clear cut (Note that Nepal forests have periods of leaf-off)  - degradation in Nepal is usually considered change in tree cover percentage from >=30% to 10-30% without a change in landcover type. You might notice that some plots will have degraded and then recovered - this is ok. As long as a degradation process occurred during the study period, you should include the plot in the degradation class.
 * Suffered deforestation (change in land cover, clear cut, between 2000 and 2019) - usually tree cove percentage of less than 10%
 * Is not forest (other land cover other than forest throughout the entire period)
 
